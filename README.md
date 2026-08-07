@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **4** | 2 | 2 | 0 | `2026-08-07` |
+| **5** | 2 | 3 | 0 | `2026-08-07` |
 
 ---
 
@@ -16,8 +16,9 @@
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [Check if there exists a subsequence with sum K](./DSA/General/check-if-there-exists-a-subsequence-with-sum-k) | [CPP](./DSA/General/check-if-there-exists-a-subsequence-with-sum-k/solution.cpp) | 🟢 Easy | `DSA` |
 | 0002 | [Combination Sum](./DSA/Recursion/combination-sum) | [CPP](./DSA/Recursion/combination-sum/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
-| 0003 | [Count all subsequences with sum K](./DSA/Linked-List/count-all-subsequences-with-sum-k) | [CPP](./DSA/Linked-List/count-all-subsequences-with-sum-k/solution.cpp) | 🟢 Easy | `DSA` / `Linked-List` |
-| 0004 | [Power Set](./DSA/General/power-set) | [Solution-2](./DSA/General/power-set/Solution-2.cpp) [CPP](./DSA/General/power-set/solution.cpp) | 🟡 Medium | `DSA` |
+| 0003 | [Combination Sum II](./DSA/Recursion/combination-sum-ii) | [CPP](./DSA/Recursion/combination-sum-ii/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
+| 0004 | [Count all subsequences with sum K](./DSA/Linked-List/count-all-subsequences-with-sum-k) | [CPP](./DSA/Linked-List/count-all-subsequences-with-sum-k/solution.cpp) | 🟢 Easy | `DSA` / `Linked-List` |
+| 0005 | [Power Set](./DSA/General/power-set) | [Solution-2](./DSA/General/power-set/Solution-2.cpp) [CPP](./DSA/General/power-set/solution.cpp) | 🟡 Medium | `DSA` |
 
 ---
 
