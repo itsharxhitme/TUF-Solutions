@@ -1,24 +1,24 @@
 class Solution {
 public:
 
-    void helper(vector<int>&nums,int idx,vector<int>& arr,vector<vector<int>>& ans){
-        if(idx >= (int)nums.size()){
-            ans.push_back(arr);
-            return;
+    void subsetsWithDupHelper(vector<int>& nums,int index,vector<int> &arr,vector<vector<int>>& ans) {
+        ans.push_back(arr);
+        for(int i = index;i<(int)nums.size();i++){
+            if(i > index && nums[i] == nums[i-1]) continue; 
+            arr.push_back(nums[i]);
+            subsetsWithDupHelper(nums,i+1,arr,ans);
+            arr.pop_back();
         }
-        arr.push_back(nums[idx]);
-        helper(nums,idx+1,arr,ans);
-        arr.pop_back();
-        int ub = upper_bound(nums.begin(),nums.end(),nums[idx]) - nums.begin();
-        helper(nums,ub,arr,ans);
-
+        
     }
     vector<vector<int> > subsetsWithDup(vector<int>& nums) {
         //your code goes here
         sort(nums.begin(),nums.end());
-        vector<int> arr;
         vector<vector<int>> ans;
-        helper(nums,0,arr,ans);
+        vector<int> arr;
+        subsetsWithDupHelper(nums,0,arr,ans);
         return ans;
+
+
     }
 };
