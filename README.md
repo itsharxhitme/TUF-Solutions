@@ -14,7 +14,7 @@
 
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
-| 0001 | [Power Set](./DSA/General/power-set) | [CPP](./DSA/General/power-set/solution.cpp) | 🟡 Medium | `DSA` |
+| 0001 | [Power Set](./DSA/General/power-set) | [CPP](./DSA/General/power-set/solution.cpp) [Solution-2](./DSA/General/power-set/Solution-2.cpp) | 🟡 Medium | `DSA` |
 
 ---
 
