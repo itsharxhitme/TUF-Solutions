@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **1** | 0 | 1 | 0 | `2026-08-07` |
+| **2** | 1 | 1 | 0 | `2026-08-07` |
 
 ---
 
@@ -14,7 +14,8 @@
 
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
-| 0001 | [Power Set](./DSA/General/power-set) | [Solution-2](./DSA/General/power-set/Solution-2.cpp) [CPP](./DSA/General/power-set/solution.cpp) | 🟡 Medium | `DSA` |
+| 0001 | [Check if there exists a subsequence with sum K](./DSA/General/check-if-there-exists-a-subsequence-with-sum-k) | [CPP](./DSA/General/check-if-there-exists-a-subsequence-with-sum-k/solution.cpp) | 🟢 Easy | `DSA` |
+| 0002 | [Power Set](./DSA/General/power-set) | [Solution-2](./DSA/General/power-set/Solution-2.cpp) [CPP](./DSA/General/power-set/solution.cpp) | 🟡 Medium | `DSA` |
 
 ---
 
