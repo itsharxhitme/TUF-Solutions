@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **6** | 2 | 4 | 0 | `2026-08-07` |
+| **7** | 2 | 5 | 0 | `2026-08-07` |
 
 ---
 
@@ -20,6 +20,7 @@
 | 0004 | [Count all subsequences with sum K](./DSA/Linked-List/count-all-subsequences-with-sum-k) | [CPP](./DSA/Linked-List/count-all-subsequences-with-sum-k/solution.cpp) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0005 | [Power Set](./DSA/General/power-set) | [Solution-2](./DSA/General/power-set/Solution-2.cpp) [CPP](./DSA/General/power-set/solution.cpp) | 🟡 Medium | `DSA` |
 | 0006 | [Subsets I](./DSA/Recursion/subsets-i) | [CPP](./DSA/Recursion/subsets-i/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
+| 0007 | [Subsets II](./DSA/Recursion/subsets-ii) | [CPP](./DSA/Recursion/subsets-ii/solution.cpp) | 🟡 Medium | `DSA` / `Recursion` |
 
 ---
 
